@@ -1,0 +1,19 @@
+{
+  "name": "parsemol",
+  "version": "0.0.1",
+  "description": "A molecular file format parsing library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jo-sm/parsemol.git"
+  },
+  "author": "Joshua Smock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jo-sm/parsemol/issues"
+  },
+  "homepage": "https://github.com/jo-sm/parsemol#readme"
+}
